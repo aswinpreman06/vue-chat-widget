@@ -1,4 +1,4 @@
-import Vue from 'https://cdn.jsdelivr.net/npm/vue';
+// import Vue from 'https://cdn.jsdelivr.net/npm/vue';
 // var script = document.createElement('script');
 
 // // Set the src attribute to the CDN link you want to include
