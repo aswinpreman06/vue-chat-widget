@@ -1,19 +1,3 @@
-// import Vue from 'https://cdn.jsdelivr.net/npm/vue';
-// var script = document.createElement('script');
-
-// // Set the src attribute to the CDN link you want to include
-// script.src = 'https://cdn.example.com/your-script.js';
-
-// // Optionally, you can set other attributes, such as type
-// script.type = 'text/javascript';
-
-// // Add an event listener to handle the script's load event (optional)
-// script.onload = function () {
-//     console.log('CDN script loaded successfully');
-// };
-
-// // Append the script element to the document's body or head
-// document.head.appendChild(script);
 
 
 const chatWidget = {
