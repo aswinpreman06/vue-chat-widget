@@ -1048,7 +1048,9 @@ const chatWidget = {
 
 
 const vm = new Vue({
+    
     render: (h) => h(chatWidget),
 });
 
 vm.$mount('#chat-widget');
+window.chatWidgetInstance = vm;
